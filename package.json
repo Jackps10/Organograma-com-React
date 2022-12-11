@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Jackps10.github.io/organograma-com-react",
+  "homepage": "http://Jackps10.github.io/organograma-com-react",
   "name": "organograma-com-react",
   "version": "0.1.0",
   "private": true,
@@ -12,7 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
+  "scripts": {  
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
