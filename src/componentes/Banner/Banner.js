@@ -6,7 +6,7 @@ function Banner() {
     return (
         <Fragment>
             <header className="banner">
-                <img src="build\imagens\banner.png" alt="O Banner principal do Organo" />
+                <img src="imagens/banner.png" alt="O Banner principal do Organo" />
             </header>
         </Fragment>
     )
