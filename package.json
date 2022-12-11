@@ -1,5 +1,5 @@
 {
-  "homepage": "http://jackps10.github.io/organograma-com-react/",
+  "homepage": "https://Jackps10.github.io/organograma-com-react",
   "name": "organograma-com-react",
   "version": "0.1.0",
   "private": true,
@@ -12,13 +12,13 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {  
+  "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject" 
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
