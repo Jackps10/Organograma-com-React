@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/organograma-com-react/static/css/main.8b40cd0a.css",
-    "main.js": "/organograma-com-react/static/js/main.d8073be5.js",
+    "main.js": "/organograma-com-react/static/js/main.0006f164.js",
     "index.html": "/organograma-com-react/index.html",
     "main.8b40cd0a.css.map": "/organograma-com-react/static/css/main.8b40cd0a.css.map",
-    "main.d8073be5.js.map": "/organograma-com-react/static/js/main.d8073be5.js.map"
+    "main.0006f164.js.map": "/organograma-com-react/static/js/main.0006f164.js.map"
   },
   "entrypoints": [
     "static/css/main.8b40cd0a.css",
-    "static/js/main.d8073be5.js"
+    "static/js/main.0006f164.js"
   ]
 }
