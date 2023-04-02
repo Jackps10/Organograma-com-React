@@ -1,16 +1,11 @@
-import { Fragment } from 'react'
-import './Banner.css'
+import './banner.css'
 
-function Banner() {
-    //JSX
+const Banner = () => {
     return (
-        <Fragment>
-            <header className="banner">
-                <img src="imagens/banner.png" alt="O Banner principal do Organo" />
-            </header>
-        </Fragment>
-    )
+        
+    <header className="cabecalho">
+        <img src='/imagens/banner.png' alt='Logo do Organo'/>
+    </header>)
 }
 
-
-export default Banner 
+export default Banner
